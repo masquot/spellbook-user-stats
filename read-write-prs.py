@@ -83,7 +83,7 @@ def show_work(start, end):
         # all issues for time interval between start and end
         sql_all= duckdb.sql(f"""
         SELECT number, created_at, issue_creator, issue_type, title 
-        FROM 'data/issues-issue-*.json' 
+        FROM '{DATA_FOLDER}issues-issue-*.json' 
         WHERE created_at >= '{start}' AND created_at < '{end}'
         """)
 
@@ -101,7 +101,7 @@ def show_work(start, end):
         SELECT  issue_no, s.created_at, issue_creator, issue_type, title, 
         sum(case when event = 'committed' then 1 else 0 end) no_of_commits,
         sum(case when event = 'commented' then 1 else 0 end) no_of_comments
-        FROM 'data/issues-timeline-*.json' t
+        FROM '{DATA_FOLDER}issues-timeline-*.json' t
         INNER JOIN (SELECT * FROM sql_all) s ON number = issue_no
         WHERE (author.name = '{res_wiz[0]}' OR actor.login = '{res_wiz[1]}')
         AND number NOT IN (SELECT number FROM sql_creator)
@@ -115,7 +115,7 @@ def get_last_issue():
     try:
         sql_last_updated = duckdb.sql(f"""
         SELECT max(updated_at)
-        FROM 'data/issues-issue-*.json' 
+        FROM '{DATA_FOLDER}issues-issue-*.json' 
         """)
         a = sql_last_updated.fetchall()
         max_time = a[0][0]
