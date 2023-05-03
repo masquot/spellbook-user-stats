@@ -1,0 +1,15 @@
+3111,2023-04-04 03:29:08,ronaldkohhh,pull_request,Workshop,6,0
+3183,2023-04-15 10:22:55,hildobby,pull_request,Add LooksRare v2,4,0
+3192,2023-04-18 06:09:19,sohwak,pull_request,`nft.trades`: add tofu_nft on Polygon,3,0
+3211,2023-04-21 13:22:07,grkhr,pull_request,Workshop,3,0
+3139,2023-04-06 20:00:34,chuxinh,pull_request,Add OpenSea Optimism trades,3,0
+3194,2023-04-18 10:36:11,hildobby,pull_request,Make `prices.usd_forward_fill` DuneSQL compatible,1,1
+3108,2023-04-03 19:11:42,MSilb7,issue,[BUG] erc20.transfers varbinary/varchar datatype issues in DuneSQL,0,1
+3140,2023-04-06 20:19:22,mikeshultz,issue,feat: OpenSea/seaport polygon data,0,1
+3188,2023-04-17 06:22:18,sohwak,pull_request,Work on `opensea.trades` on Polygon ,0,1
+3213,2023-04-21 13:58:03,jeff-dude,pull_request,add accepted range usd test on dex/nft schema,0,1
+3237,2023-04-26 01:30:47,MSilb7,pull_request,[easy] More OP Static Updates,0,0
+3156,2023-04-12 09:09:27,bh2smith,pull_request,"[Prices.USD] Add 311 missing, but available token prices",0,0
+3182,2023-04-15 07:50:55,springzh,pull_request,Fix multiple currency payment in a single tx,0,0
+3242,2023-04-26 17:13:49,sohwak,pull_request,Add seaport v1.5 to `opensea.trades`,0,0
+3219,2023-04-24 05:00:56,sohwak,pull_request,Correct datatype and typo on `opensea_v3_polygon`,0,0

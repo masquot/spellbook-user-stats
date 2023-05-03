@@ -1,0 +1,46 @@
+3145,2023-04-07 22:03:24,nazihkalo,pull_request,Adding cyberconnect - decentralized social protocol,11,1
+3141,2023-04-06 21:20:47,B1boid,pull_request,add bebop trades,9,3
+3150,2023-04-11 08:37:14,sunopar,pull_request,Add onepunchswap on bnb chain,8,1
+3171,2023-04-13 13:07:47,discochuck,pull_request,adding-glacier-exchange,8,0
+3099,2023-04-01 14:41:22,chef-seaweed,pull_request,Add Pancakeswap v3 trades on Ethereum and BNB Chain,6,0
+3100,2023-04-03 00:36:57,chef-seaweed,pull_request,Add Pancakeswap v3 trades,6,0
+3128,2023-04-05 09:04:40,gregshestakovlido,pull_request,Lido ethereum accounting,5,0
+3130,2023-04-05 15:14:13,gregshestakovlido,pull_request,Add ethereum to kyberswap trades,4,2
+3127,2023-04-05 00:40:07,henrystats,pull_request,add verse dex to dex.trades - Ready for review,4,1
+3131,2023-04-05 22:47:17,andrewhong5297,pull_request,add distinct accounts,4,1
+3111,2023-04-04 03:29:08,ronaldkohhh,pull_request,Workshop,4,0
+3240,2023-04-26 09:36:50,gregshestakovlido,pull_request,Add lido liquidity initial model,4,0
+3258,2023-04-30 22:32:38,Vahid-flipside,pull_request,Frax finance,3,1
+3152,2023-04-11 16:20:35,ppclunghe,pull_request,add arbitrum.kyber.trades to dex.trades,3,0
+3208,2023-04-20 19:35:38,Stefenon,pull_request,Feature/add gauge labels,3,0
+3109,2023-04-03 20:56:18,denverbaumgartner,pull_request,dex.offers 🦕,3,0
+3184,2023-04-15 17:07:55,DevCav,pull_request,cleaned eth v4 trades,2,1
+3246,2023-04-27 16:23:13,0xTollywood,pull_request,Added OATH and GRAIN tokens,2,0
+3175,2023-04-13 16:27:40,denverbaumgartner,pull_request,update: dex.offers (specify maker) 🦁 ,2,0
+3149,2023-04-11 03:15:55,ronaldkohhh,pull_request,Bnbmapping,2,0
+3204,2023-04-20 08:02:13,StagArbswap,pull_request,Add Arbswap Stableswap,2,0
+3105,2023-04-03 12:21:14,bearishbuilder,pull_request,Please update safe_polygon_safes,1,4
+3239,2023-04-26 09:14:06,akritivij,pull_request,Bnb av,1,1
+3211,2023-04-21 13:22:07,grkhr,pull_request,Workshop,1,0
+3238,2023-04-26 02:49:26,hsrvc,pull_request,Add Thena and Trader Joe trades on BNB chain,1,0
+3256,2023-04-29 13:46:01,hsrvc,pull_request,Add Thena trades to dex trades,1,0
+3199,2023-04-19 14:17:05,roflfuso,pull_request,Ad GHNY 0xa045E37a0D1dd3A45fefb8803D22457abc0A728a,1,0
+3104,2023-04-03 10:04:06,gentrexha,pull_request,[CoW Protocol] Implement partial fill into cow_protocol ethereum trades,1,0
+3243,2023-04-27 03:16:11,0xroll,pull_request,[easy] removing $XEN due to price issue,1,0
+3165,2023-04-13 00:54:16,springzh,pull_request,add agi-auragi price,1,0
+3101,2023-04-03 00:54:19,hsrvc,pull_request,Add Pancakeswap v3 trades,0,1
+3129,2023-04-05 13:58:35,0xRobin,pull_request,NFT restructuring,0,1
+3220,2023-04-24 08:05:48,0xSerPablo,pull_request,Add Pepe to prices.usd,0,0
+3181,2023-04-15 06:06:48,bh2smith,pull_request,[Prices] Remove SHIH - permanently.,0,0
+3189,2023-04-17 08:45:30,bh2smith,pull_request,[Erc20] Add 17 New Tokens,0,0
+3177,2023-04-14 09:18:51,PAULZV,pull_request,Update LVL to prices.usd table,0,0
+3206,2023-04-20 10:25:13,henrystats,pull_request,Top holders erc721 - Ready for review,0,0
+3213,2023-04-21 13:58:03,jeff-dude,pull_request,add accepted range usd test on dex/nft schema,0,0
+3234,2023-04-25 21:18:20,zalam003,pull_request,add dragon blood DB to price.usd,0,0
+3134,2023-04-06 01:47:06,amalashkevich,pull_request,Add new version of clipper.exchange on Ethereum (ClipperApproximateCa…,0,0
+3103,2023-04-03 09:40:50,bh2smith,pull_request,[ERC20] Add 13 Missing Tokens,0,0
+3203,2023-04-20 07:32:14,ppclunghe,pull_request,labels&fundraising fixes,0,0
+3224,2023-04-25 01:15:00,denverbaumgartner,issue,mo data: dex.offers,0,0
+3186,2023-04-16 16:40:33,sohwak,pull_request,token `REVV` on Polygon for tokens and prices,0,0
+3225,2023-04-25 03:59:37,0xSector,pull_request,trade_type column typo fix for liquidifty_bnb_trades and liquidifty_ethereum_trades,0,0
+3218,2023-04-23 14:52:53,MSilb7,pull_request,[EASY] OP Fix Contract Mappings,0,0
